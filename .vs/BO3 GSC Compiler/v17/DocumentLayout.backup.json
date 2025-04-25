@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ZombieInvasion\\Black-Ops-3-GSC-Compiler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE887DF-5354-4DFD-86A3-542C9336AF8C}|BO3 GSC Compiler PC\\BO3 GSC Compiler PC.csproj|c:\\zombieinvasion\\black-ops-3-gsc-compiler\\bo3 gsc compiler pc\\compiler\\scriptcompilerpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE887DF-5354-4DFD-86A3-542C9336AF8C}|BO3 GSC Compiler PC\\BO3 GSC Compiler PC.csproj|solutionrelative:bo3 gsc compiler pc\\compiler\\scriptcompilerpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScriptCompilerPC.cs",
+              "DocumentMoniker": "C:\\ZombieInvasion\\Black-Ops-3-GSC-Compiler\\BO3 GSC Compiler PC\\Compiler\\ScriptCompilerPC.cs",
+              "RelativeDocumentMoniker": "BO3 GSC Compiler PC\\Compiler\\ScriptCompilerPC.cs",
+              "ToolTip": "C:\\ZombieInvasion\\Black-Ops-3-GSC-Compiler\\BO3 GSC Compiler PC\\Compiler\\ScriptCompilerPC.cs",
+              "RelativeToolTip": "BO3 GSC Compiler PC\\Compiler\\ScriptCompilerPC.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:03:44.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

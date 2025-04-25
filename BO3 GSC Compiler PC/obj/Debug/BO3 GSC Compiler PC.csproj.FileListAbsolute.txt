@@ -1,0 +1,15 @@
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\bin\Debug\BO3 GSC Compiler PC.exe.config
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\bin\Debug\BO3 GSC Compiler PC.exe
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\bin\Debug\BO3 GSC Compiler PC.pdb
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\bin\Debug\Irony.dll
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.csproj.AssemblyReference.cache
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\obj\Debug\BO3_GSC_Compiler_PC.PCCredits.resources
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\obj\Debug\BO3_GSC_Compiler_PC.PCUI.resources
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\obj\Debug\BO3_GSC_Compiler_PC.Properties.Resources.resources
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.csproj.GenerateResource.cache
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.csproj.CoreCompileInputs.cache
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\obj\Debug\BO3 GSC .36B65737.Up2Date
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.exe
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\obj\Debug\BO3 GSC Compiler PC.pdb
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\bin\Debug\BO3 GSC Compiler PC.exe.CodeAnalysisLog.xml
+C:\ZombieInvasion\Black-Ops-3-GSC-Compiler\BO3 GSC Compiler PC\bin\Debug\BO3 GSC Compiler PC.exe.lastcodeanalysissucceeded
